@@ -4,7 +4,6 @@
 
 > Это первая часть большого учебного курса. Полный план: **Часть 1** — Основы + математика · Часть 2 — Regression · Часть 3 — Classification · Часть 4 — Trees + Ensembles · Часть 5 — Unsupervised Learning · Часть 6 — Evaluation + Feature Engineering · Часть 7 — Advanced ML + Business · Часть 8 — Roadmap + Cheat Sheet
 > 
-> Напиши "дальше" или "часть 2", когда будешь готов(а) продолжить.
 
 ---
 
